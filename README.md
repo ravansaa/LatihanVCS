@@ -17,4 +17,4 @@ menggunakan git commit untuk menyimpan perubahan yang dilakukan, tetapi tidak ad
 git push untuk mengirimkan perubahan file setelah di commit ke remote repository!
 ![Gambar](ScreenShot/ss5.png)
 ### Keenam Beginilah Tampak Hasil di Github
-![Gambar](ScreenShot/ss6.png)
+![Gambar](ScreenShot/ss.png)
