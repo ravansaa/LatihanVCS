@@ -11,5 +11,5 @@ menggunakan clone untuk mengunduh kode yang ada pada repository git clone *url g
 menggunakan git add untuk menambah file dan git status untuk mengecek status file
 ![Gambar](ScreenShot/ss3.png)
 ### Keempat melakukan commit
-menggunakan git commit untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository
+menggunakan git commit untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository "contoh git commit -m"                                                   
 ![Gambar](ScreenShot/ss4.png)
