@@ -1,7 +1,7 @@
 # LatihanVCS
-## Belajar tab bahasa HTML
+## Tutorial penggunaan git
 
-### Mebuat Paragraf
-kode tag untuk paragraf adalah < p>
-ini adalah tampilan nyaa
+### Kegunaan cd
+cd /d/Labs/ kode ini di gunakan untuk menentukan directory
 ![Gambar](ScreenShot/ss1.png)
+###  Kegunaan
