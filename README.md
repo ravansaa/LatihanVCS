@@ -13,3 +13,6 @@ menggunakan git add untuk menambah file dan git status untuk mengecek status fil
 ### Keempat melakukan commit
 menggunakan git commit untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository "contoh git commit -m"                                                   
 ![Gambar](ScreenShot/ss4.png)
+### Kelima melakukan push
+git push untuk mengirimkan perubahan file setelah di commit ke remote repository!
+![Gambar](ScreenShot/ss5.png)
