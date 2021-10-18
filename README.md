@@ -12,4 +12,4 @@ menggunakan git add untuk menambah file dan git status untuk mengecek status fil
 ![Gambar](ScreenShot/ss3.png)
 ### Keempat melakukan commit
 menggunakan git commit untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository
-![Gambar](Screenshot/ss4.png)
+![Gambar](ScreenShot/ss4.png)
