@@ -1,7 +1,10 @@
 # LatihanVCS
 ## Tutorial penggunaan git
 
-### Penggunaan CD
+### Pertama CD
 Pertama buat file directory untuk project yang akan di buat dengan menggunakan command /d/Labs/ 
 ![Gambar](ScreenShot/ss1.png)
-###  Kegunaan
+### Kedua Clone
+menggunakan clone untuk mengunduh kode yang ada pada repository
+git clone *url github
+![img]ScreenShot/ss2.png
