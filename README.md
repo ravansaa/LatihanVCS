@@ -7,4 +7,4 @@ Pertama buat file directory untuk project yang akan di buat dengan menggunakan c
 ### Kedua Clone
 menggunakan clone untuk mengunduh kode yang ada pada repository
 git clone *url github
-![img]ScreenShot/ss2.png
+![Gambar](ScreenShot/ss2.png)
