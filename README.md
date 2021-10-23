@@ -26,7 +26,7 @@ lalu Buat akun github klik sign up
 ### Lalu copy link repository
 ![Gambar](ScreenShot/ss15.png)
 
-### Pertama CD
+### Tutorial GIT Pertama CD
 Pertama buat file directory untuk project yang akan di buat dengan menggunakan command /d/Labs/ 
 ![Gambar](ScreenShot/ss1.png)
 ### Kedua Clone
