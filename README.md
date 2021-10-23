@@ -24,7 +24,7 @@ lalu Buat akun github klik sign up
 ### Lalu masukan Kode verifikasi
 ![Gambar](ScreenShot/ss14.png)
 ### Lalu copy link repository
-![Gambar](ScreenShot/ss15)
+![Gambar](ScreenShot/ss15.png)
 
 ### Pertama CD
 Pertama buat file directory untuk project yang akan di buat dengan menggunakan command /d/Labs/ 
